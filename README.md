@@ -2,19 +2,19 @@
 
 ⭐ If you find SpatialSpeak interesting, please consider starring this repository. Thank you!
 
-> [Yang Cao](https://yangcaoai.github.io/)<sup>1</sup>, Jiaxin Zhang<sup>3</sup>, [Dave Zhenyu Chen](https://daveredrum.github.io/)<sup>2</sup>, [Yingji Zhong](https://zhongyingji.github.io/)<sup>1</sup>, Ruiyuan Gao<sup>2</sup>, [Lanqing Hong](https://racheltechie.github.io/)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net/)<sup>1</sup>
+> [Yang Cao](https://yangcaoai.github.io/)<sup>1</sup>, [Jiaxin Zhang](https://zestfuljx.github.io/)<sup>3</sup>, [Dave Zhenyu Chen](https://daveredrum.github.io/)<sup>2</sup>, [Yingji Zhong](https://zhongyingji.github.io/)<sup>1</sup>, [Ruiyuan Gao](https://gaoruiyuan.com/)<sup>2</sup>, [Lanqing Hong](https://racheltechie.github.io/)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net/)<sup>1</sup>
 >
 > <sup>1</sup> The Hong Kong University of Science and Technology  
 > <sup>2</sup> Huawei Noah’s Ark Lab  
 > <sup>3</sup> Harbin Institute of Technology
 
-**[📄 Paper](https://arxiv.org/abs/2609.33616) · [🌐 Project Page](https://yangcaoai.github.io/SpatialSpeak/) · Code coming soon**
+**[📄 Paper](https://arxiv.org/pdf/2609.33616) · [🌐 Project Page](https://yangcaoai.github.io/SpatialSpeak/)**
 
 ## 🚩 Updates
 
-- ☑ Our paper is now available on [arXiv](https://arxiv.org/abs/2609.33616).
+- Our paper is now available on [arXiv](https://arxiv.org/pdf/2609.33616).
 
-The research code has not yet been released. Please stay tuned for updates.
+- The code has not yet been released. Please stay tuned for updates.
 
 ## Motivation
 
@@ -41,7 +41,6 @@ SpatialSpeak is a two-stage framework that connects reconstruction and reasoning
 
 ## Visualization of Spatial Reasoning
 
-The example below shows how SpatialSpeak uses estimated 3D object centers to distinguish blackboard instances across views and produce the correct count.
 
 <p align="center">
   <img src="assets/reasoning-example.svg" width="100%" alt="A recorded blackboard-counting example with reconstructed geometry and a spatial reasoning trace">
@@ -68,11 +67,6 @@ For questions, please contact [Yang Cao](mailto:yangcao.cs@gmail.com).
 
 ## 📜 Sincere Acknowledgement
 
-We sincerely thank the authors and contributors of the following projects for sharing their research and resources with the community:
+We sincerely thank the authors of the following projects for sharing their research and resources with the community:
 
-- [GeoThinker](https://github.com/Li-Hao-yuan/GeoThinker), [SpatialStack](https://github.com/jzh15/SpatialStack), and [VG-LLM](https://github.com/LaVi-Lab/VG-LLM) for their work on geometry-aware vision-language models and spatial reasoning.
-- [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) for its vision-language models and supporting tools.
-- [ReVSI](https://github.com/3dlg-hcvc/revsi), [VSI-Bench / Thinking in Space](https://github.com/vision-x-nyu/thinking-in-space), and [SPAR](https://github.com/LogosRoboticsGroup/SPAR) for their datasets, benchmarks, and evaluation resources.
-- [Cambrian-S](https://github.com/cambrian-mllm/cambrian-s) for its research on visual-spatial intelligence and its open data and models.
-
-We appreciate their contributions to advancing spatial understanding and reasoning.
+[GeoThinker](https://github.com/Li-Hao-yuan/GeoThinker), [SpatialStack](https://github.com/jzh15/SpatialStack), [VG-LLM](https://github.com/LaVi-Lab/VG-LLM), [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL), [ReVSI](https://github.com/3dlg-hcvc/revsi), [VSI-Bench](https://github.com/vision-x-nyu/thinking-in-space), [SPAR](https://github.com/LogosRoboticsGroup/SPAR), [Cambrian-S](https://github.com/cambrian-mllm/cambrian-s), etc
