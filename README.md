@@ -20,8 +20,6 @@
 
 **Learning local geometry and global context makes spatial CoT more effective.**
 
-Vision-language models can benefit from geometric priors for multi-view spatial reasoning, but answer-only training does not directly supervise intermediate geometric estimates or how they are used to derive quantitative spatial answers. SpatialSpeak first jointly learns complementary local geometry and global scene context through QA-native reconstruction, then learns to use geometric estimates in spatial chain-of-thought reasoning.
-
 <p align="center">
   <img src="assets/teaser.svg" width="100%" alt="SpatialSpeak overview and ReVSI performance comparison">
 </p>
@@ -30,10 +28,7 @@ On ReVSI, reconstruction pretraining increases the gain from spatial CoT learnin
 
 ## Framework
 
-SpatialSpeak is a two-stage framework that connects reconstruction and reasoning through a shared text-based question-answering interface:
-
-- **Stage I — QA-Native Reconstruction Pretraining (QA-RP):** Marked-point 3D queries teach fine-grained local geometry, while object-center queries teach global scene context across views.
-- **Stage II — Spatial CoT with Visual Compensation (CoT-VC):** The model learns to express question-relevant geometric estimates and use them to derive answers, with reliability assessment and visual compensation supporting answer refinement when needed.
+A two-stage framework that connects reconstruction and reasoning through a shared text-based question-answering interface:
 
 <p align="center">
   <img src="assets/framework.svg" width="100%" alt="SpatialSpeak framework: QA-RP followed by CoT-VC">
