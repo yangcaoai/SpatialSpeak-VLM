@@ -2,7 +2,7 @@
 
 ⭐ If you find SpatialSpeak interesting, please consider starring this repository. Thank you!
 
-> [Yang Cao](https://yangcaoai.github.io/)<sup>1</sup>, [Jiaxin Zhang](https://zestfuljx.github.io/)<sup>3</sup>, [Dave Zhenyu Chen](https://daveredrum.github.io/)<sup>2</sup>, [Yingji Zhong](https://zhongyingji.github.io/)<sup>1</sup>, [Ruiyuan Gao](https://gaoruiyuan.com/)<sup>2</sup>, [Lanqing Hong](https://racheltechie.github.io/)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net/)<sup>1</sup>
+> [Yang Cao](https://yangcaoai.github.io/)<sup>1</sup>, [Jiaxin Zhang](https://zestfuljx.github.io/)<sup>3</sup>, [Dave Zhenyu Chen](https://daveredrum.github.io/)<sup>2</sup>, [Yingji Zhong](https://zhongyingji.github.io/)<sup>1</sup>, [Ruiyuan Gao](https://gaoruiyuan.com/)<sup>2</sup>, [Lanqing Hong](https://racheltechie.github.io/)<sup>2</sup>, [Dan Xu*](https://www.danxurgb.net/)<sup>1</sup>
 >
 > <sup>1</sup> The Hong Kong University of Science and Technology  
 > <sup>2</sup> Huawei Noah’s Ark Lab  
