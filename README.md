@@ -10,16 +10,6 @@
 
 **[📄 Paper](https://arxiv.org/pdf/2609.33616) · [🌐 Project Page](https://yangcaoai.github.io/SpatialSpeak/)**
 
-<p align="center">
-  <a href="https://yangcaoai.github.io/SpatialSpeak/#demo">
-    <img src="assets/demo-preview.gif" width="100%" alt="SpatialSpeak demo: a rotating 3D reconstruction with a spatial reasoning response appearing step by step">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://yangcaoai.github.io/SpatialSpeak/assets/videos/spatialspeak-demo.mp4">▶ Watch the full demo video (3 scenes)</a>
-</p>
-
 ## 🚩 Updates
 
 - Our paper is now available on [arXiv](https://arxiv.org/pdf/2609.33616).
