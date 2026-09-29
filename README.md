@@ -1,4 +1,4 @@
-# 📖 SpatialSpeak: QA-Native Reconstruction with Local and Global Context for Spatial Chain-of-Thought Reasoning
+# 🤖 SpatialSpeak: QA-Native Reconstruction with Local and Global Context for Spatial Chain-of-Thought Reasoning
 
 ⭐ If you find SpatialSpeak interesting, please consider starring this repository. Thank you!
 
